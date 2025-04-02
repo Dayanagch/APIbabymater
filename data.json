@@ -1,0 +1,108 @@
+{
+    "articulos": [
+      {
+        "title": "Cómo hacer un Banco de Leche Materna",
+        "description": "Un banco de leche materna es de suma importancia que te permite...",
+        "date": "Julio 14, 2024",
+        "imageUrl": "https://lazosdelagente.com/wp-content/uploads/2024/04/Guia-basica-para-tener-tu-banco-de-leche-materna-en-casa.webp",
+        "imagenBlog": "https://www.bienestarcolsanitas.com/images/2-SECCIONES/SALUD/CRONICA/LECHE_MATERNA/Slide_Banco-de-leche.jpg",
+        "informacion": "Un banco de leche materna es de suma importancia ya que le permite al bebé seguir tomando leche materna (el mejor alimento) y a la mamá poder ausentarse ya sea para trabajar o para hacer una actividad que requiera.",
+        "beneficios": "El banco de leche trae beneficios tanto para la mamá como para el bebé. Crear un banco de leche materna puede ser una tarea sencilla y manejable con la planificación y el conocimiento adecuados. Aquí tienes una guía paso a paso sobre cómo hacerlo.",
+        "guia": {
+          "preparacion": {
+            "equipamiento": [
+              "Extractor de leche: Manual o eléctrico. Sencillo o Doble. Depende del tiempo que tienes para extraerte y qué tan frecuente lo vas a hacer.",
+              "Bolsas de almacenamiento: Específicas para leche materna, con capacidad de etiquetado.",
+              "Recipientes de almacenamiento: De vidrio o plástico sin BPA, aptos para alimentos.",
+              "Etiquetas y rotulador: Para marcar la fecha de extracción en cada bolsa o recipiente.",
+              "Congelador: Un lugar limpio y seguro para almacenar la leche materna."
+            ],
+            "higiene": {
+              "lavadoDeManos": "Lávate bien las manos con agua y jabón antes de manipular cualquier equipo o la leche.",
+              "esterilizacion": "Limpia y esteriliza todos los componentes del extractor de leche, recipientes y otros utensilios antes de cada uso. Puedes utilizar un esterilizador eléctrico o hervir los equipos durante unos minutos."
+            }
+          },
+          "extraccionDeLaLeche": {
+            "tecnicasDeExtraccion": [
+              "Manual: Masajea suavemente el pecho y usa las manos para extraer la leche en un recipiente limpio.",
+              "Extractor de leche: Sigue las instrucciones del fabricante para usar el extractor de leche de manera efectiva."
+            ],
+            "momentosIdealesParaLaExtraccion": {
+              "despuesDeAmamantar": "Extrae leche después de que el bebé haya terminado de amamantar.",
+              "entreTomas": "Encuentra un momento en que tus pechos estén llenos, generalmente en la mañana.",
+              "cuandoElBebeDuerme": "Aprovecha las siestas del bebé para extraer leche."
+            },
+            "almacenamiento": {
+              "imageUrl": "https://cdn.shopify.com/s/files/1/1886/9469/files/Depositphotos_119983778_S_480x480.jpg?v=1720994060",
+              "comoAlmacenarLeche": "Llenado de bolsas y recipientes: Deja espacio en la parte superior de las bolsas o recipientes, ya que la leche se expande al congelarse.",
+              "selladoAdecuado": "Asegúrate de que las bolsas estén bien selladas y los recipientes bien cerrados para evitar derrames o contaminación.",
+              "esterilizacion": "Limpia y esteriliza todos los componentes del extractor de leche, recipientes y otros utensilios antes de cada uso. Puedes utilizar un esterilizador eléctrico o hervir los equipos durante unos minutos."
+            },
+            "etiqueta": {
+              "fechaDeExtraccion": "Escribe claramente la fecha en que fue extraída la leche.",
+              "informacionAdicional": "Puedes incluir la hora de extracción y cualquier otra información relevante, como el nombre del bebé si es necesario."
+            },
+            "duracion": {
+              "aTemperaturaAmbiente": "4 horas.",
+              "enElRefrigerador": "4 días.",
+              "enElCongelador": "6 meses. En un congelador separado, puede durar hasta 12 meses."
+            },
+            "usoDeLecheAlmacenada": {
+              "descongelacion": "Descongela la leche en el refrigerador durante la noche o coloca la bolsa o el recipiente en agua tibia.",
+              "calentamiento": "Calienta la leche bajo agua corriente tibia o coloca el recipiente en un recipiente con agua caliente. No uses el microondas para calentar la leche, ya que puede destruir nutrientes y crear puntos calientes."
+            },
+            "comoSaberSiLaLecheEstaEnBuenEstado": {
+              "olorYSabor": "La leche materna puede variar en color y consistencia, pero si huele mal o tiene un sabor agrio, es mejor desecharla.",
+              "separacionNatural": "Es normal que la crema de la leche se separe y suba a la parte superior. Agita suavemente la leche para mezclarla nuevamente antes de usarla."
+            }
+          }
+        },
+        "nota": "Esta guía debería ayudarte a establecer un banco de leche materna de manera efectiva y a proporcionar una valiosa fuente de nutrición para tu bebé. ¡Buena suerte!",
+        "id": "f89f"
+      },
+      {
+        "title": "¿Cómo se realiza la esterilización y calentamiento de los biberones?",
+        "description": "Durante años, los padres han tenido que estar...",
+        "date": "Septiembre 16, 2022",
+        "imageUrl": "https://cpbebes.com/wp-content/uploads/2021/03/Como-se-realiza-la-esterilizacion-y-calentamiento-de-los-biberones-768x530.jpg",
+        "imagenBlog": "https://www.thesafeparent.com/wp-content/uploads/best-baby-bottle-sterilizer-e1605785534486.jpg",
+        "informacion": "Durante años, los padres y pediatras no han sido conscientes de la necesidad y preocupación en la esterilización de los biberones y accesorios para bebés...",
+        "guia": {
+          "importanciaEsterilizacion": "La preparación de la leche de fórmula conlleva un riesgo de contaminación por bacterias como la salmonela o el Enterobacter sakazakii. Para reducir estos riesgos, es fundamental una correcta manipulación de los biberones y la leche durante la preparación. Usar productos estériles y minimizar el tiempo entre la preparación y el consumo, además de almacenar los preparados a temperaturas iguales o inferiores a 5 °C, ayuda a prevenir enfermedades en los bebés.",
+          "comoEsterilizarAccesorios": "Antes de comenzar, siempre deben lavarse las manos cuando van a manipular los biberones del bebé y a alimentarlo. En el caso de que usen cobertores plásticos desechables para biberones y fórmula de leche lista, es necesario que se aseguren de que las tetinas están limpias. Para esto, es importante que las froten con agua caliente y jabón, luego deben enjuagarlas para eliminar cualquier rastro de jabón. Algunos expertos recomiendan hervirlo durante 5 minutos. Las tapas de las latas de leche de fórmula se deben lavar y enjuagar de manera cuidadosa. Asegúrense de que el abrelatas, las cucharas para mezclar, los frascos y todos los utensilios estén limpios.",
+          "imageUrl": "https://cpbebes.com/wp-content/uploads/2021/03/Como-se-realiza-la-esterilizacion-y-calentamiento-de-los-biberones-2-600x401.jpg"
+        },
+        "id": "abb4"
+      },
+      {
+        "title": "No te sientas culpable si la maternidad no es como soñaste",
+        "description": "Hablar con una mujer embarazada y después hablar...",
+        "date": "Agosto 26, 2024",
+        "imageUrl": "https://bebesonline.es/blog/wp-content/uploads/2015/03/bebe-y-mama-felices1.jpg",
+        "imagenBlog": "https://www.suavinex.com/livingsuavinex/wp-content/uploads/2024/08/vinculo-afectivo-madre-hijo-.webp",
+        "informacion": "Hablar con una mujer embarazada y después hablar con esa misma mujer un año después de dar a luz, es toda una experiencia. Sobre todo cuando es su primer hijo.",
+        "guia": {
+          "idealizacion": "Es un momento tan especial, que la mayoría de las mamás idealizan como será todo con su bebé. Algunas quieren tener un parto natural para crear un vínculo con su bebé, otras prefieren programar una cesárea y tener todo bajo control.",
+          "expectativasVsRealidad": "Cuando el bebé nace (incluso antes de ello), pueden pasar muchas cosas que cambien nuestros planes.",
+          "dificultades": "Durante la lactancia -uno de los aspectos más duros de la maternidad- se pueden presentar inconvenientes; desde lesiones en los pezones hasta poca producción.",
+          "conclusion": "No hay nada escrito. El estrés que nos da no poder hacer algo con lo que soñábamos, o que siempre hemos creído que es lo mejor, es solamente nuestra ansiedad por no cumplir un estándar que creó la sociedad."
+        },
+        "nota": "La próxima vez que te empieces a sentir culpable, piensa eso: ¡estoy haciendo lo mejor posible por mi bebé, le estoy dando tanto amor como puedo, todo lo demás tiene solución!",
+        "id": "8325"
+      },
+      {
+        "title": "Mamá Regresa al Trabajo",
+        "description": "El regreso al trabajo está lleno de sentimientos encontrados. Quieres retomar tu vida...",
+        "date": "Julio 16, 2024",
+        "imageUrl": "https://img.freepik.com/fotos-premium/mama-bebe-joven-madre-que-trabaja-computadora-portatil-habla-telefono_133179-277.jpg",
+        "imagenBlog": "https://img.remediosdigitales.com/a5c247/mama-jugando-con-bebe/1366_2000.jpg",
+        "informacion": "El regreso al trabajo está lleno de sentimientos encontrados. Quieres retomar tu vida laboral pero no te quieres perder un solo minuto de tu bebé. Acá te damos algunos tips que te pueden servir para que este proceso sea exitoso.",
+        "guia": {
+          "alimento": "Es bueno que empieces a pensar en hacer un banco de leche, ya que vas a estar sin tu bebé en algunas tomas y lo mejor que le puedes dejar a tu bebé es leche materna.",
+          "cuidado": "Con quién vas a dejar a tu bebé? Esto es un tema muy personal y cada familia lo resuelve como mejor puede.",
+          "trabajo": "Definir con la compañía a la que trabajas y con tu jefe tus horarios, la hora de lactancia, y posibles viajes."
+        },
+        "id": "9b4f"
+      }
+    ]
+  }
