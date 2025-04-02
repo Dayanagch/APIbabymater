@@ -1,169 +1,185 @@
-{"articulos": [
-    {
-      "title": "Cómo hacer un Banco de Leche Materna",
-      "description": "Un banco de leche materna es de suma importancia que te permite...",
-      "date": "Julio 14, 2024",
-      "imageUrl": "https://lazosdelagente.com/wp-content/uploads/2024/04/Guia-basica-para-tener-tu-banco-de-leche-materna-en-casa.webp",
-      "imagenBlog": "https://www.bienestarcolsanitas.com/images/2-SECCIONES/SALUD/CRONICA/LECHE_MATERNA/Slide_Banco-de-leche.jpg",
-      "informacion": "Un banco de leche materna es de suma importancia ya que le permite al bebé seguir tomando leche materna (el mejor alimento) y a la mamá poder ausentarse ya sea para trabajar o para hacer una actividad que requiera.",
-      "beneficios": "El banco de leche trae beneficios tanto para la mamá como para el bebé. Crear un banco de leche materna puede ser una tarea sencilla y manejable con la planificación y el conocimiento adecuados. Aquí tienes una guía paso a paso sobre cómo hacerlo.",
-      "guia": {
-        "preparacion": {
-          "equipamiento": [
-            "Extractor de leche: Manual o eléctrico. Sencillo o Doble. Depende del tiempo que tienes para extraerte y qué tan frecuente lo vas a hacer.",
-            "Bolsas de almacenamiento: Específicas para leche materna, con capacidad de etiquetado.",
-            "Recipientes de almacenamiento: De vidrio o plástico sin BPA, aptos para alimentos.",
-            "Etiquetas y rotulador: Para marcar la fecha de extracción en cada bolsa o recipiente.",
-            "Congelador: Un lugar limpio y seguro para almacenar la leche materna."
-          ],
-          "higiene": {
-            "lavadoDeManos": "Lávate bien las manos con agua y jabón antes de manipular cualquier equipo o la leche.",
-            "esterilizacion": "Limpia y esteriliza todos los componentes del extractor de leche, recipientes y otros utensilios antes de cada uso. Puedes utilizar un esterilizador eléctrico o hervir los equipos durante unos minutos."
-          }
+{  "articulos": [
+  {
+    "id": "f89f1",
+    "title": "Cómo hacer un Banco de Leche Materna",
+    "description": "Un banco de leche materna es de suma importancia que te permite...",
+    "date": "Julio 14, 2024",
+    "imageUrl": "https://lazosdelagente.com/wp-content/uploads/2024/04/Guia-basica-para-tener-tu-banco-de-leche-materna-en-casa.webp",
+    "imagenBlog": "https://www.bienestarcolsanitas.com/images/2-SECCIONES/SALUD/CRONICA/LECHE_MATERNA/Slide_Banco-de-leche.jpg",
+    "informacion": "Un banco de leche materna es de suma importancia ya que le permite al bebé seguir tomando leche materna (el mejor alimento) y a la mamá poder ausentarse ya sea para trabajar o para hacer una actividad que requiera.",
+    "beneficios": "El banco de leche trae beneficios tanto para la mamá como para el bebé. Crear un banco de leche materna puede ser una tarea sencilla y manejable con la planificación y el conocimiento adecuados. Aquí tienes una guía paso a paso sobre cómo hacerlo.",
+    "guia": {
+      "preparacion": {
+        "equipamiento": [
+          "Extractor de leche: Manual o eléctrico. Sencillo o Doble. Depende del tiempo que tienes para extraerte y qué tan frecuente lo vas a hacer.",
+          "Bolsas de almacenamiento: Específicas para leche materna, con capacidad de etiquetado.",
+          "Recipientes de almacenamiento: De vidrio o plástico sin BPA, aptos para alimentos.",
+          "Etiquetas y rotulador: Para marcar la fecha de extracción en cada bolsa o recipiente.",
+          "Congelador: Un lugar limpio y seguro para almacenar la leche materna."
+        ],
+        "higiene": {
+          "lavadoDeManos": "Lávate bien las manos con agua y jabón antes de manipular cualquier equipo o la leche.",
+          "esterilizacion": "Limpia y esteriliza todos los componentes del extractor de leche, recipientes y otros utensilios antes de cada uso. Puedes utilizar un esterilizador eléctrico o hervir los equipos durante unos minutos."
+        }
+      },
+      "ExtracciónDeLaLeche": {
+        "TécnicasDeExtracción": [
+          "Manual: Masajea suavemente el pecho y usa las manos para extraer la leche en un recipiente limpio.",
+          "Extractor de leche: Sigue las instrucciones del fabricante para usar el extractor de leche de manera efectiva."
+        ],
+        "MomentosIdealesParaLaExtracción": {
+          "Después de amamantar": "Extrae leche después de que el bebé haya terminado de amamantar.",
+          "Entre tomas": "Encuentra un momento en que tus pechos estén llenos, generalmente en la mañana.",
+          "Cuando el bebé duerme": "Aprovecha las siestas del bebé para extraer leche."
         },
-        "ExtracciónDeLaLeche": {
-          "TécnicasDeExtracción": [
-            "Manual: Masajea suavemente el pecho y usa las manos para extraer la leche en un recipiente limpio.",
-            "Extractor de leche: Sigue las instrucciones del fabricante para usar el extractor de leche de manera efectiva."
-          ],
-          "MomentosIdealesParaLaExtracción": {
-            "Después de amamantar": "Extrae leche después de que el bebé haya terminado de amamantar.",
-            "Entre tomas": "Encuentra un momento en que tus pechos estén llenos, generalmente en la mañana.",
-            "Cuando el bebé duerme": "Aprovecha las siestas del bebé para extraer leche."
-          },
-          "Almacenamiento": {
-            "imageUrl": "https://cdn.shopify.com/s/files/1/1886/9469/files/Depositphotos_119983778_S_480x480.jpg?v=1720994060",
-            "como almacenar leche": "Llenado de bolsas y recipientes: Deja espacio en la parte superior de las bolsas o recipientes, ya que la leche se expande al congelarse",
-            "Sellado adecuado": "Asegúrate de que las bolsas estén bien selladas y los recipientes bien cerrados para evitar derrames o contaminación.",
-            "esterilizacion": "Limpia y esteriliza todos los componentes del extractor de leche, recipientes y otros utensilios antes de cada uso. Puedes utilizar un esterilizador eléctrico o hervir los equipos durante unos minutos."
-          },
-          "etiqueta": {
-            "Fecha de extracción": "Escribe claramente la fecha en que fue extraída la leche.",
-            "Información adicional": "Puedes incluir la hora de extracción y cualquier otra información relevante, como el nombre del bebé si es necesario."
-          },
-          "duracion": {
-            "A temperatura ambiente": "4 horas.",
-            "En el refrigerador": "4 días.",
-            "En el congelador": "6 meses. En un congelador separado, puede durar hasta 12 meses."
-          },
-          "uso de leche almacenada": {
-            "Descongelación": "Descongela la leche en el refrigerador durante la noche o coloca la bolsa o el recipiente en agua tibia.",
-            "Calentamiento": "Calienta la leche bajo agua corriente tibia o coloca el recipiente en un recipiente con agua caliente. No uses el microondas para calentar la leche, ya que puede destruir nutrientes y crear puntos calientes."
-          },
-          "como saber si la leche esta en buen estado": {
-            "Olor y sabor": "La leche materna puede variar en color y consistencia, pero si huele mal o tiene un sabor agrio, es mejor desecharla.",
-            "Separación natural": "Es normal que la crema de la leche se separe y suba a la parte superior. Agita suavemente la leche para mezclarla nuevamente antes de usarla."
-          }
+        "Almacenamiento": {
+          "imageUrl": "https://cdn.shopify.com/s/files/1/1886/9469/files/Depositphotos_119983778_S_480x480.jpg?v=1720994060",
+          "como almacenar leche": "Llenado de bolsas y recipientes: Deja espacio en la parte superior de las bolsas o recipientes, ya que la leche se expande al congelarse",
+          "Sellado adecuado": "Asegúrate de que las bolsas estén bien selladas y los recipientes bien cerrados para evitar derrames o contaminación.",
+          "esterilizacion": "Limpia y esteriliza todos los componentes del extractor de leche, recipientes y otros utensilios antes de cada uso. Puedes utilizar un esterilizador eléctrico o hervir los equipos durante unos minutos."
+        },
+        "etiqueta": {
+          "Fecha de extracción": "Escribe claramente la fecha en que fue extraída la leche.",
+          "Información adicional": "Puedes incluir la hora de extracción y cualquier otra información relevante, como el nombre del bebé si es necesario."
+        },
+        "duracion": {
+          "A temperatura ambiente": "4 horas.",
+          "En el refrigerador": "4 días.",
+          "En el congelador": "6 meses. En un congelador separado, puede durar hasta 12 meses."
+        },
+        "uso de leche almacenada": {
+          "Descongelación": "Descongela la leche en el refrigerador durante la noche o coloca la bolsa o el recipiente en agua tibia.",
+          "Calentamiento": "Calienta la leche bajo agua corriente tibia o coloca el recipiente en un recipiente con agua caliente. No uses el microondas para calentar la leche, ya que puede destruir nutrientes y crear puntos calientes."
+        },
+        "como saber si la leche esta en buen estado": {
+          "Olor y sabor": "La leche materna puede variar en color y consistencia, pero si huele mal o tiene un sabor agrio, es mejor desecharla.",
+          "Separación natural": "Es normal que la crema de la leche se separe y suba a la parte superior. Agita suavemente la leche para mezclarla nuevamente antes de usarla."
         }
-      },
-      "nota": "Esta guía debería ayudarte a establecer un banco de leche materna de manera efectiva y a proporcionar una valiosa fuente de nutrición para tu bebé. ¡Buena suerte!",
-      "id": "f89f"
+      }
     },
+    "nota": "Esta guía debería ayudarte a establecer un banco de leche materna de manera efectiva y a proporcionar una valiosa fuente de nutrición para tu bebé. ¡Buena suerte!",
+    "comentarios": [
     {
-      "title": "Cómo se prepara su cuerpo para la lactancia",
-      "description": "Esta información es importante para ti...",
-      "date": "Febrero 24, 2023",
-      "imageUrl": "https://cpbebes.com/wp-content/uploads/2021/03/Como-se-prepara-su-cuerpo-para-la-lactancia-Esta-informacion-es-importante-para-ti-768x512.jpg",
-      "imagenBlog": "https://fotografias.larazon.es/clipping/cmsimages02/2021/05/05/91E64E3E-6D57-40F1-8CCC-2715226DD9F0/98.jpg?crop=900,506,x0,y47&width=1900&height=1069&optimize=low&format=webply",
-      "informacion": "Además del crecimiento del vientre, el cuerpo sufre numerosos cambios durante el embarazo. Incluso antes de que comience la lactancia, por ejemplo, los senos de las mujeres embarazadas, se vuelven más hinchados y sensibles.",
-      "guia": {
-        "informacion2": "Una vez las mujeres empiezan a notar estos cambios, se preguntan, ¿cuáles son los artículos o productos que preparan el cuerpo para la lactancia?, ¿cómo es el proceso?. En este post resolveremos todas las inquietudes.",
-        "QueCambiosSeGeneranEnElCuerpo": {
-          "texto": "Durante el embarazo, el cuerpo comienza a prepararse para la lactancia desde el primer trimestre. Alrededor de la quinta o sexta semana, los senos se vuelven más llenos y sensibles debido a cambios hormonales que estimulan el crecimiento de conductos y alvéolos donde se producirá la leche. A medida que avanza la gestación, el tejido glandular reemplaza el tejido graso en los senos, lo que los hace aumentar de tamaño. Aunque algunas mujeres temen que sus senos cambien de forma permanentemente después de amamantar, estos suelen recuperar su tamaño y forma originales al volver al peso previo al embarazo.",
-          "imageUrls": "https://image.tuasaude.com/media/article/nj/ok/falta-de-aire-en-el-embarazo_63378.jpg",
-          "descripcion00": "Además de la proliferación de conductos lactíferos y alvéolos, al final del primer trimestre del embarazo también hay un aumento del flujo sanguíneo. Esto se debe a la dilatación y aparición de nuevos vasos alrededor de los alvéolos. Al final del segundo trimestre, el cuerpo ya es completamente capaz de producir leche materna. Por lo tanto, incluso si el bebé nace prematuro, la madre podrá amamantar. La primera leche que se produce es el calostro. Después del nacimiento, con la salida de la placenta, hay un aumento en los niveles de prolactina, la hormona responsable de la producción de leche. Sin embargo, unas horas después del parto, el nivel de prolactina desciende y, a partir de ahí, es necesario que el bebé succione el pecho para estimular la producción de leche.",
-          "imageUrl0": "https://cpbebes.com/wp-content/uploads/2021/03/Como-se-prepara-su-cuerpo-para-la-lactancia-Esta-informacion-es-importante-para-ti-2-600x440.jpg",
-          "descripcion01": "Durante la lactancia, la estimulación del pezón por la boca del bebé activa terminaciones nerviosas que envían señales al cerebro para liberar oxitocina. Esta hormona provoca la contracción de las células musculares en las mamas, impulsando la leche hacia los conductos y sacos cercanos al pezón. A medida que el bebé succiona, la producción de oxitocina aumenta, facilitando el flujo de leche en un proceso llamado «bajada de leche». En algunos casos, las madres pueden necesitar un extractor de leche si no pueden amamantar directamente.",
-          "descripcion02": "Un extractor de leche se convierte en la herramienta indispensable de aquellas mamitas que no pueden amamantar, pero se preocupan por darles lo mejor a sus pequeños. De esta manera, las madres podrán darles leche materna a sus hijos sin tener complicaciones.",
-          "imageUrlx": "https://www.clinicaarrels.com/wp-content/uploads/2015/03/embarazo-848x300@2x.jpg",
-          "descripcionDelProducto": "Por lo tanto, se trata de un producto que no maltrata a la mamita y preserva en buenas condiciones la leche extraída para que no pierda sus propiedades irremplazables.  Su potente motor y el boquete ergonómico hacen que la succión sea suave. Es confortable, silencioso y eficiente.  Este extractor ha sido diseñado especialmente para brindarle comodidad a la madre y evitar el estrés o la ansiedad que puede dificultar la extracción. Además, es muy cómodo para que la mujer no tenga que inclinarse, sino estar sentada cómodamente."
-        }
-      },
-      "id": "1345"
-    },
-    {
-      "title": "¿Cómo se realiza la esterilización y calentamiento de los biberones?",
-      "description": "Durante años, los padres han tenido que estar...",
-      "date": "Septiembre 16, 2022",
-      "imageUrl": "https://cpbebes.com/wp-content/uploads/2021/03/Como-se-realiza-la-esterilizacion-y-calentamiento-de-los-biberones-768x530.jpg",
-      "imagenBlog": "https://www.thesafeparent.com/wp-content/uploads/best-baby-bottle-sterilizer-e1605785534486.jpg",
-      "informacion": "Durante años, los padres y pediatras no han sido conscientes de la necesidad y preocupación en la esterilización de los biberones y accesorios para bebés, como lo realizaba la generación de antaño. No obstante, muchos están reconociendo la importancia que estos accesorios para bebe en Bogotá tienen, porque diversos informes recientes han demostrado que existe una relación entre los problemas de la seguridad de los alimentos y los suministros de agua contaminada.",
-      "guia": {
-        "laImportanciaDeLaEsterilización": "La preparación de la leche de fórmula conlleva un riesgo de contaminación por bacterias como la salmonela o el Enterobacter sakazakii. Para reducir estos riesgos, es fundamental una correcta manipulación de los biberones y la leche durante la preparación. Usar productos estériles y minimizar el tiempo entre la preparación y el consumo, además de almacenar los preparados a temperaturas iguales o inferiores a 5 °C, ayuda a prevenir enfermedades en los bebés. ",
-        "CómoSeDebeRealizarLaEsterilizaciónDeEstosAccesorios": "Antes de comenzar, siempre deben lavarse las manos cuando van a manipular los biberones del bebé y a alimentarlo. En el caso de que usen cobertores plásticos desechables para biberones y fórmula de leche lista, es necesario que se aseguren de que las tetinas están Para esto, es importante que las froten con agua caliente y jabón, luego deben enjuagarlas para eliminar cualquier rastro de jabón. Algunos expertos recomiendan hervirlo durante 5 minutos. Las tapas de las latas de leche de fórmula se deben lavar y enjuagar de manera cuidadosa. Asegúrense de que el abrelatas, las cucharas para mezclar, los frascos y todos los utensilios estén limpios.",
-        "imageUrlz": "https://cpbebes.com/wp-content/uploads/2021/03/Como-se-realiza-la-esterilizacion-y-calentamiento-de-los-biberones-2-600x401.jpg"
-      },
-      "id": "abb4"
-    },
-    {
-      "title": "No te sientas culpable si la maternidad no es como soñaste",
-      "description": " Hablar con una mujer embarazada y después hablar...",
-      "date": "Agosto 26, 2024",
-      "imageUrl": "https://bebesonline.es/blog/wp-content/uploads/2015/03/bebe-y-mama-felices1.jpg",
-      "imagenBlog": "https://www.suavinex.com/livingsuavinex/wp-content/uploads/2024/08/vinculo-afectivo-madre-hijo-.webp",
-      "informacion": "Hablar con una mujer embarazada y después hablar con esa misma mujer un año después de dar a luz, es toda una experiencia. Sobre todo cuando es su primer hijo.",
-      "guia": {
-        "idealizacion": "Es un momento tan especial, que la mayoría de las mamás idealizan como será todo con su bebé. Algunas quieren tener un parto natural para crear un vínculo con su bebé, otras prefieren programar una cesárea y tener todo bajo control.",
-        "expectativasVsRealidad": "Cuando el bebé nace (incluso antes de ello), pueden pasar muchas cosas que cambien nuestros planes.",
-        "dificultades": "Durante la lactancia -uno de los aspectos más duros de la maternidad- se pueden presentar inconvenientes; desde lesiones en los pezones hasta poca producción.",
-        "imageUrl1": "https://img.remediosdigitales.com/2e0dfd/lactancia/450_1000.jpeg",
-        "descripcion1": "Hablar con una mujer embarazada y después hablar con esa misma mujer un año después de dar a luz, es toda una experiencia. Sobre todo cuando es su primer hijo.",
-        "descripcion2": "Es un momento tan especial, que la mayoría de las mamás idealizan como será todo con su bebé. Algunas quieren tener un parto natural para crear un vínculo con su bebé, otras prefieren programar una cesárea y tener todo bajo control. También sueñan con la lactancia: para muchas, no importa lo que pase, darán solo leche materna, otras creen que lo más práctico es darle leche de fórmula.",
-        "descripcion3": "Lo mismo pasa con las hora de sueño, la forma de hablarle y hasta la música que le dejarán escuchar a sus criaturitas. Todo esto está muy bien, solamente que hay algo con lo que no cuentan, la vida real.",
-        "imageUrl2": "https://img.remediosdigitales.com/061028/1024_2000/1366_2000.jpg",
-        "descripcion4": "Cuando el bebé nace (incluso antes de ello), pueden pasar muchas cosas que cambien nuestros planes. El parto natural puede que no suceda por (entre miles de posibilidades) que el bebé no esté bien posicionado. Durante la lactancia -uno de los aspectos más duros de la maternidad- se pueden presentar inconvenientes; desde lesiones en los pezones hasta poca producción.",
-        "descripcion5": "Al bebé le puede gustar algo que a ti no. Puede que se levante todas las noches con hambre, que no le guste recibir visitas, etc. Esto no quiere decir que hayamos hecho algo malo como madres, por el contrario, muestra que nuestros bebés son humanos (aunque a veces no lo parezcan) y que cada uno es diferente. Esa es la magia de ser humanos, ser únicos. Entonces no hay razón para deprimirse ni sentirse culpable. El hecho que tus amigas o las influencers de moda hagan algo con sus bebés que tú no, no está mal. No hay nada escrito. El estrés que nos da no poder hacer algo con lo que soñábamos, o que siempre hemos creído que es lo mejor, es solamente nuestra ansiedad por no cumplir un estándar que creó la sociedad.",
-        "descripcion6": "Pero la verdad es que mientras hagamos lo que nos indica el pediatra, mientras cuidemos la salud de nuestros bebés, mantengamos nuestra salud mental (importantísimo para criar niños sanos) y les demos mucho, pero mucho amor, no hay ninguna razón para darnos golpes de pecho. Cada persona, en especial cada madre, está librando su propia batalla, con fortalezas y debilidades, con ventajas y desventajas, pero nadie más que uno mismo puede saber que está dando lo mejor de si.",
-        "conclusion": "No hay nada escrito. El estrés que nos da no poder hacer algo con lo que soñábamos, o que siempre hemos creído que es lo mejor, es solamente nuestra ansiedad por no cumplir un estándar que creó la sociedad."
-      },
-      "nota1": "La próxima vez que te empieces a sentir culpable, piensa eso: ¡estoy haciendo lo mejor posible por mi bebé, le estoy dando tanto amor como puedo, todo lo demás tiene solución!",
-      "id": "8325"
-    },
-    {
-      "title": "Mamá Regresa al Trabajo",
-      "description": " El regreso al trabajo esta lleno de sentimientos encontrados. Quieres retomar tu vida...",
-      "date": " julio 16, 2024",
-      "imageUrl": "https://img.freepik.com/fotos-premium/mama-bebe-joven-madre-que-trabaja-computadora-portatil-habla-telefono_133179-277.jpg",
-      "imagenBlog": "https://img.remediosdigitales.com/a5c247/mama-jugando-con-bebe/1366_2000.jpg",
-      "informacion": "El regreso al trabajo esta lleno de sentimientos encontrados.  Quieres retomar tu vida laboral pero no te quieres perder un solo minuto de tu bebé!. Acá te damos algunos tips que te pueden servir para que este proceso sea exitoso. Un  mes antes empieza a programar como será el regreso a tu trabajo.  Si puedes antes mucho mejor.  Programarme en qué?",
-      "guia": {
-        "ElAlimento": "Es bueno que empieces a pensar en hacer un banco de leche, ya que, vas a estar sin tu bebé en algunas tomas y lo mejor que le puedes dejar a tu bebe, es leche materna. Con el extractor que prefieras empieza a sacarte leche,  esto te ayudara a empezar  a aumentar la producción para tener un poco de reservas.  Recomiendan que sea en la mañana una hora antes o después de que tu bebé vaya o haya tomado. La leche la debes guardar de manera adecuada (Bolsas o Biberones para almacenar leche materna), debidamente marcada con la cantidad y fecha.  Puedes guardarla en la nevera o congelarla.  Debes utilizarla en el mismo orden que te la sacaste para ir renovándola. No necesitas cantidades alarmantes.... mientras estas en el trabajo vas a extraerte y vas a ir reponiendo.  Necesitas una reserva para los primeros días y por si algo pasa inesperado. ",
-        "imageUrlr": "https://cuidateplus.blob.core.windows.net/cms/banco-de-leche-2.jpg",
-        "Cuidado": "Con quien vas a dejar a tu bebé?   Esto es un tema muy personal y cada familia lo resuelve como mejor puede.   Lo importante es que tu como mamá te sientas tranquila con la persona que te cuida mientras no estás a tu bebé. Hay varias opciones: Familiares :  abuelas, tíos, etc. Personas de Apoyo :  empleadas, niñeras, etc. Jardín Infantil - Sala Cuna - Day Care : un sitio donde te cuiden con tu bebé. Una mezcla de cualquiera de los 3 anteriores. Siempre ten un plan B .  Porque se puede enfermar la persona que lo cuida o si el bebe no puede ir al jardín debes estar preparada. En cualquiera de los casos haz la elección con suficiente anticipación y los últimos días en casa empieza a familiarizar a tu bebe con la persona que se va a quedar.",
-        "imageUrlc": "https://www.agenciadomus.com/wp-content/uploads/2017/10/cuidado-de-ninos-bebes-barcelona-1170x658.jpg",
-        "Trabajo": "Definir con la compañía a la que trabajas  y con tu jefe tus horarios,  la hora de lactancia, que viajes tendrías que hacer en los primeros meses, etc. Si te llama la atención explora alternativas de trabajo desde tu casa o horarios flexibles que se acomoden mejor a tus necesidades. Valida si hay un sitio tranquilo donde puedes hacer la extracción de una forma cómoda, tranquila y segura. Ten en cuenta los tiempos de transporte para la conservación de la leche y para las tomas de tu bebé.",
-        "imageUrlt": "https://www.adeccoinstitute.es/wp-content/uploads/2022/02/Madres-trabajadoras.jpg",
-        "conclusion": "¡Confía en tus creencias. Eres un individuo único y valioso, confía en tu juicio y cree en tus habilidades!."
-      },
-      "id": "9b4f"
-    },
-    {
-      "title": "Cuidados del bebé prematuro: información esencial que los padres deben conocer",
-      "description": " El bebé prematuro llorará suavemente y puede...",
-      "date": "Agosto 26, 2024",
-      "imageUrl": "https://cpbebes.com/wp-content/uploads/2021/01/bebe-amor-1-768x456.jpg",
-      "imagenBlog": "https://images.ctfassets.net/2ql69mthp94m/2zcc69YFiVDuIIQq5qtRTV/0dca6f02434dc4d453e7c365b1607b8d/Preemie_720x432.jpg?fm=webp&q=70",
-      "informacion": "Los nacimientos prematuros ocurren en alrededor del 11 al 13% de los embarazos en los EE. UU. Casi el 60% de los mellizos, trillizos y otros tipos de partos múltiples inducen partos prematuros. El panorama es muy similar en Colombia, porque, según datos de las entidades de salud, el 20% de los niños que nacen en el país, son prematuros y las cifras podrían incluso ser mayores por diferentes motivos.",
-      "guia": {
-        "descripcion10": "De acuerdo con los especialistas, los partos prematuros no deben realizarse para el beneficio de la madre o el ginecobstetra. Cuando suceden, son por factores inesperados o por alguna emergencia que podría poner en riesgo tanto la vida del bebé como de la madre. Diversas investigaciones han demostrado que los bebés prematuros tienen un mayor riesgo de presentar situaciones negativas; por eso, siempre los médicos y padres van a realizar diferentes esfuerzos para que los bebés nazcan a término.",
-        "descripcion23": "Un nacimiento se considera «prematuro» cuando el niño nace antes de que se complete la semana 37 de embarazo. Un embarazo a término se caracteriza por llegar hasta la semana 40. Los nacimientos antes del término se pueden dar por causas genéticas, biológicas o ambientales. Aquellos bebés que son prematuros necesitan de cuidados especiales para que se puedan terminar de desarrollar o evitar que presenten problemas de salud.",
-        "CaracteristicasDeBebePrematuro": "Si el bebé nace prematuramente, es posible que no se vea ni actúe así. Mientras que un bebé no prematuro pesa alrededor de 3.17 kg al nacer, un recién nacido prematuro puede pesar 2.26 kg o incluso mucho menos. Gracias a los avances médicos, los niños nacidos después de las veintiocho semanas de gestación y que pesen más de 1 kg tienen buenas posibilidades de supervivencia.",
-        "imageUrlzx": "https://www.clinicalascondes.cl/getattachment/6ce16271-388b-4336-962c-5dc21eb692c7/",
-        "caracteristica2": "Se estima que ocho de cada diez de los nacidos después de la trigésima semana tendrán la posibilidad de gozar de buena salud a largo plazo sin mayores problemas de desarrollo, mientras que los bebés prematuros nacidos antes de las veintiocho semanas tienen más complicaciones y necesitan tratamiento intensivo y apoyo una unidad de cuidados intensivos neonatales para que terminen de formarse y desarrollarse en la incubadora.",
-        "AspectoFisicoDeBebePrematuro": "Cuanto antes nazca el bebé, más pequeño será y más grande se verá la cabeza en relación con el resto del cuerpo. Como tiene menos grasa debajo de la piel, se verá más delgado y transparente, lo que le permitirá ver los vasos sanguíneos debajo de él. El bebé también puede tener cabello fino, llamado lanugo, en la espalda y los hombros. Sin embargo, no se preocupe; con el tiempo estas diferencias desaparecen.",
-        "imageUrl14": "https://www.infobae.com/resizer/v2/ZONXBZ26X5HOFBPVKFNBO24E2A.jpg?auth=b24ed6d28411d9aa8dab7eb47d6799ba0ae1327883f9af961057af3371b8f0ac&smart=true&width=1024&height=512&quality=85",
-        "aspecto2": "Al no tener grasa, que es aislante, su bebé prematuro tendrá frío a temperaturas ambientales normales. Por esa razón, se colocará inmediatamente después del nacimiento en una incubadora o en un dispositivo de calefacción especial llamado calentador radiante. Aquí, la temperatura se puede ajustar para mantenerlo caliente. Después de un rápido examen en la sala de partos, es probable que lo lleven a la UCI neonatal.",
-        "ComoSeraElComportamientoDelBebePrematuro": "El bebé prematuro llorará suavemente y puede tener dificultad para respirar. Esto se debe a que su sistema respiratorio aún está maduro. Si tiene menos de 7 meses, sus dificultades respiratorias pueden causarle graves problemas de salud, ya que, los otros órganos inmaduros de su cuerpo no recibirán suficiente oxígeno. Para asegurarse de que esto no suceda, los médicos lo mantendrán bajo observación, monitoreando su respiración y frecuencia cardíaca con un equipo llamado monitor cardiorrespiratorio.",
-        "ComoManejarElEstres": "Tan importante como el cuidado para la supervivencia del bebé y su traslado a la unidad de cuidados especiales, es la salud materna, ya que, como madre puede perder la experiencia de exploración, amamantamiento y vinculación con el niño poco después del parto. Para lidiar con el estrés de esta experiencia, la madre puede solicitar ver a su bebé lo antes posible después del parto y averiguar cuánto puede cuidarlo",
-        "imageUrld1": "https://www.infobae.com/resizer/v2/ZONXBZ26X5HOFBPVKFNBO24E2A.jpg?auth=b24ed6d28411d9aa8dab7eb47d6799ba0ae1327883f9af961057af3371b8f0ac&smart=true&width=1024&height=512&quality=85",
-        "ManejoEstres2": "Pasar el mayor tiempo posible con él en la unidad de cuidados especiales. Incluso si la madre no puede sostenerlo todavía hasta que esté estable, puede tocarlo con frecuencia. Muchas UCI permiten a los padres hacer «canguro» con sus bebés para brindarles calor y que se sientan protegidos.",
-        "ManejoEstres3": "La madre también puede alimentarlo tan pronto como su médico lo suelte. Las enfermeras le darán instrucciones sobre cualquier técnica de lactancia materna, según sea apropiado para las necesidades y deseos del bebé. Algunos recién nacidos prematuros pueden necesitar inicialmente líquidos por vía intravenosa o mediante un tubo de alimentación que pasa por la boca o la nariz hasta el estómago. Pero la leche materna, es la mejor nutrición posible y proporciona anticuerpos y otras sustancias que aumentan su respuesta inmunológica y ayudan a resistir las infecciones.",
-        "ConsejoAdicional": "La madre debe regresar a casa antes que su recién nacido, lo que puede ser muy difícil, pero debe recordar que el bebé está en buenas manos y puede visitarlo con la misma frecuencia. Debe usar su tiempo fuera del hospital para descansar lo necesario y preparar su hogar y su familia para que su bebé se vaya a casa.",
-        "imageUrl18": "https://img.europapress.es/fotoweb/fotonoticia_20161004174450_1200.jpg",
-        "ConsejoAdicional1": "Incluso después de que la madre regrese a casa, debe participar en la recuperación del bebé y si tiene suficiente contacto con él durante ese tiempo, mejor se sentirá por la situación y más fácil será cuidarlo cuando salga de la unidad de cuidados especiales. Es importante que se prepare de manera idónea para cuidar al pequeño que requerirá cuidados especiales."
-      },
-      "id": "0b85"
+      "id": "f89f1",
+      "nombre": "Juan Pérez",
+      "correo": "juan@example.com",
+      "mensaje": "¡Muy interesante!",
+      "fecha": "2025-04-02T12:00:00Z"
     }
   ]
+  },
+  {
+    "id": "1346",
+    "title": "Cómo se prepara su cuerpo para la lactancia",
+    "description": "Esta información es importante para ti...",
+    "date": "Febrero 24, 2023",
+    "imageUrl": "https://cpbebes.com/wp-content/uploads/2021/03/Como-se-prepara-su-cuerpo-para-la-lactancia-Esta-informacion-es-importante-para-ti-768x512.jpg",
+    "imagenBlog": "https://fotografias.larazon.es/clipping/cmsimages02/2021/05/05/91E64E3E-6D57-40F1-8CCC-2715226DD9F0/98.jpg?crop=900,506,x0,y47&width=1900&height=1069&optimize=low&format=webply",
+    "informacion": "Además del crecimiento del vientre, el cuerpo sufre numerosos cambios durante el embarazo. Incluso antes de que comience la lactancia, por ejemplo, los senos de las mujeres embarazadas, se vuelven más hinchados y sensibles.",
+    "guia": {
+      "informacion2": "Una vez las mujeres empiezan a notar estos cambios, se preguntan, ¿cuáles son los artículos o productos que preparan el cuerpo para la lactancia?, ¿cómo es el proceso?. En este post resolveremos todas las inquietudes.",
+      "QueCambiosSeGeneranEnElCuerpo": {
+        "texto": "Durante el embarazo, el cuerpo comienza a prepararse para la lactancia desde el primer trimestre. Alrededor de la quinta o sexta semana, los senos se vuelven más llenos y sensibles debido a cambios hormonales que estimulan el crecimiento de conductos y alvéolos donde se producirá la leche. A medida que avanza la gestación, el tejido glandular reemplaza el tejido graso en los senos, lo que los hace aumentar de tamaño. Aunque algunas mujeres temen que sus senos cambien de forma permanentemente después de amamantar, estos suelen recuperar su tamaño y forma originales al volver al peso previo al embarazo.",
+        "imageUrls": "https://image.tuasaude.com/media/article/nj/ok/falta-de-aire-en-el-embarazo_63378.jpg",
+        "descripcion00": "Además de la proliferación de conductos lactíferos y alvéolos, al final del primer trimestre del embarazo también hay un aumento del flujo sanguíneo. Esto se debe a la dilatación y aparición de nuevos vasos alrededor de los alvéolos. Al final del segundo trimestre, el cuerpo ya es completamente capaz de producir leche materna. Por lo tanto, incluso si el bebé nace prematuro, la madre podrá amamantar. La primera leche que se produce es el calostro. Después del nacimiento, con la salida de la placenta, hay un aumento en los niveles de prolactina, la hormona responsable de la producción de leche. Sin embargo, unas horas después del parto, el nivel de prolactina desciende y, a partir de ahí, es necesario que el bebé succione el pecho para estimular la producción de leche.",
+        "imageUrl0": "https://cpbebes.com/wp-content/uploads/2021/03/Como-se-prepara-su-cuerpo-para-la-lactancia-Esta-informacion-es-importante-para-ti-2-600x440.jpg",
+        "descripcion01": "Durante la lactancia, la estimulación del pezón por la boca del bebé activa terminaciones nerviosas que envían señales al cerebro para liberar oxitocina. Esta hormona provoca la contracción de las células musculares en las mamas, impulsando la leche hacia los conductos y sacos cercanos al pezón. A medida que el bebé succiona, la producción de oxitocina aumenta, facilitando el flujo de leche en un proceso llamado «bajada de leche». En algunos casos, las madres pueden necesitar un extractor de leche si no pueden amamantar directamente.",
+        "descripcion02": "Un extractor de leche se convierte en la herramienta indispensable de aquellas mamitas que no pueden amamantar, pero se preocupan por darles lo mejor a sus pequeños. De esta manera, las madres podrán darles leche materna a sus hijos sin tener complicaciones.",
+        "imageUrlx": "https://www.clinicaarrels.com/wp-content/uploads/2015/03/embarazo-848x300@2x.jpg",
+        "descripcionDelProducto": "Por lo tanto, se trata de un producto que no maltrata a la mamita y preserva en buenas condiciones la leche extraída para que no pierda sus propiedades irremplazables.  Su potente motor y el boquete ergonómico hacen que la succión sea suave. Es confortable, silencioso y eficiente.  Este extractor ha sido diseñado especialmente para brindarle comodidad a la madre y evitar el estrés o la ansiedad que puede dificultar la extracción. Además, es muy cómodo para que la mujer no tenga que inclinarse, sino estar sentada cómodamente."
+      }
+    },
+    "comentarios": []
+  },
+  {
+    "id": "abb4",
+    "title": "¿Cómo se realiza la esterilización y calentamiento de los biberones?",
+    "description": "Durante años, los padres han tenido que estar...",
+    "date": "Septiembre 16, 2022",
+    "imageUrl": "https://cpbebes.com/wp-content/uploads/2021/03/Como-se-realiza-la-esterilizacion-y-calentamiento-de-los-biberones-768x530.jpg",
+    "imagenBlog": "https://www.thesafeparent.com/wp-content/uploads/best-baby-bottle-sterilizer-e1605785534486.jpg",
+    "informacion": "Durante años, los padres y pediatras no han sido conscientes de la necesidad y preocupación en la esterilización de los biberones y accesorios para bebés, como lo realizaba la generación de antaño. No obstante, muchos están reconociendo la importancia que estos accesorios para bebe en Bogotá tienen, porque diversos informes recientes han demostrado que existe una relación entre los problemas de la seguridad de los alimentos y los suministros de agua contaminada.",
+    "guia": {
+      "laImportanciaDeLaEsterilización": "La preparación de la leche de fórmula conlleva un riesgo de contaminación por bacterias como la salmonela o el Enterobacter sakazakii. Para reducir estos riesgos, es fundamental una correcta manipulación de los biberones y la leche durante la preparación. Usar productos estériles y minimizar el tiempo entre la preparación y el consumo, además de almacenar los preparados a temperaturas iguales o inferiores a 5 °C, ayuda a prevenir enfermedades en los bebés. ",
+      "CómoSeDebeRealizarLaEsterilizaciónDeEstosAccesorios": "Antes de comenzar, siempre deben lavarse las manos cuando van a manipular los biberones del bebé y a alimentarlo. En el caso de que usen cobertores plásticos desechables para biberones y fórmula de leche lista, es necesario que se aseguren de que las tetinas están Para esto, es importante que las froten con agua caliente y jabón, luego deben enjuagarlas para eliminar cualquier rastro de jabón. Algunos expertos recomiendan hervirlo durante 5 minutos. Las tapas de las latas de leche de fórmula se deben lavar y enjuagar de manera cuidadosa. Asegúrense de que el abrelatas, las cucharas para mezclar, los frascos y todos los utensilios estén limpios.",
+      "imageUrlz": "https://cpbebes.com/wp-content/uploads/2021/03/Como-se-realiza-la-esterilizacion-y-calentamiento-de-los-biberones-2-600x401.jpg"
+    },
+    "comentarios": []
+  },
+  { 
+    "id": "8325",
+    "title": "No te sientas culpable si la maternidad no es como soñaste",
+    "description": " Hablar con una mujer embarazada y después hablar...",
+    "date": "Agosto 26, 2024",
+    "imageUrl": "https://bebesonline.es/blog/wp-content/uploads/2015/03/bebe-y-mama-felices1.jpg",
+    "imagenBlog": "https://www.suavinex.com/livingsuavinex/wp-content/uploads/2024/08/vinculo-afectivo-madre-hijo-.webp",
+    "informacion": "Hablar con una mujer embarazada y después hablar con esa misma mujer un año después de dar a luz, es toda una experiencia. Sobre todo cuando es su primer hijo.",
+    "guia": {
+      "idealizacion": "Es un momento tan especial, que la mayoría de las mamás idealizan como será todo con su bebé. Algunas quieren tener un parto natural para crear un vínculo con su bebé, otras prefieren programar una cesárea y tener todo bajo control.",
+      "expectativasVsRealidad": "Cuando el bebé nace (incluso antes de ello), pueden pasar muchas cosas que cambien nuestros planes.",
+      "dificultades": "Durante la lactancia -uno de los aspectos más duros de la maternidad- se pueden presentar inconvenientes; desde lesiones en los pezones hasta poca producción.",
+      "imageUrl1": "https://img.remediosdigitales.com/2e0dfd/lactancia/450_1000.jpeg",
+      "descripcion1": "Hablar con una mujer embarazada y después hablar con esa misma mujer un año después de dar a luz, es toda una experiencia. Sobre todo cuando es su primer hijo.",
+      "descripcion2": "Es un momento tan especial, que la mayoría de las mamás idealizan como será todo con su bebé. Algunas quieren tener un parto natural para crear un vínculo con su bebé, otras prefieren programar una cesárea y tener todo bajo control. También sueñan con la lactancia: para muchas, no importa lo que pase, darán solo leche materna, otras creen que lo más práctico es darle leche de fórmula.",
+      "descripcion3": "Lo mismo pasa con las hora de sueño, la forma de hablarle y hasta la música que le dejarán escuchar a sus criaturitas. Todo esto está muy bien, solamente que hay algo con lo que no cuentan, la vida real.",
+      "imageUrl2": "https://img.remediosdigitales.com/061028/1024_2000/1366_2000.jpg",
+      "descripcion4": "Cuando el bebé nace (incluso antes de ello), pueden pasar muchas cosas que cambien nuestros planes. El parto natural puede que no suceda por (entre miles de posibilidades) que el bebé no esté bien posicionado. Durante la lactancia -uno de los aspectos más duros de la maternidad- se pueden presentar inconvenientes; desde lesiones en los pezones hasta poca producción.",
+      "descripcion5": "Al bebé le puede gustar algo que a ti no. Puede que se levante todas las noches con hambre, que no le guste recibir visitas, etc. Esto no quiere decir que hayamos hecho algo malo como madres, por el contrario, muestra que nuestros bebés son humanos (aunque a veces no lo parezcan) y que cada uno es diferente. Esa es la magia de ser humanos, ser únicos. Entonces no hay razón para deprimirse ni sentirse culpable. El hecho que tus amigas o las influencers de moda hagan algo con sus bebés que tú no, no está mal. No hay nada escrito. El estrés que nos da no poder hacer algo con lo que soñábamos, o que siempre hemos creído que es lo mejor, es solamente nuestra ansiedad por no cumplir un estándar que creó la sociedad.",
+      "descripcion6": "Pero la verdad es que mientras hagamos lo que nos indica el pediatra, mientras cuidemos la salud de nuestros bebés, mantengamos nuestra salud mental (importantísimo para criar niños sanos) y les demos mucho, pero mucho amor, no hay ninguna razón para darnos golpes de pecho. Cada persona, en especial cada madre, está librando su propia batalla, con fortalezas y debilidades, con ventajas y desventajas, pero nadie más que uno mismo puede saber que está dando lo mejor de si.",
+      "conclusion": "No hay nada escrito. El estrés que nos da no poder hacer algo con lo que soñábamos, o que siempre hemos creído que es lo mejor, es solamente nuestra ansiedad por no cumplir un estándar que creó la sociedad."
+    },
+    "nota1": "La próxima vez que te empieces a sentir culpable, piensa eso: ¡estoy haciendo lo mejor posible por mi bebé, le estoy dando tanto amor como puedo, todo lo demás tiene solución!",
+   
+    "comentarios": []
+  },
+  {
+    "id": "9b4f",
+    "title": "Mamá Regresa al Trabajo",
+    "description": " El regreso al trabajo esta lleno de sentimientos encontrados. Quieres retomar tu vida...",
+    "date": " julio 16, 2024",
+    "imageUrl": "https://img.freepik.com/fotos-premium/mama-bebe-joven-madre-que-trabaja-computadora-portatil-habla-telefono_133179-277.jpg",
+    "imagenBlog": "https://img.remediosdigitales.com/a5c247/mama-jugando-con-bebe/1366_2000.jpg",
+    "informacion": "El regreso al trabajo esta lleno de sentimientos encontrados.  Quieres retomar tu vida laboral pero no te quieres perder un solo minuto de tu bebé!. Acá te damos algunos tips que te pueden servir para que este proceso sea exitoso. Un  mes antes empieza a programar como será el regreso a tu trabajo.  Si puedes antes mucho mejor.  Programarme en qué?",
+    "guia": {
+      "ElAlimento": "Es bueno que empieces a pensar en hacer un banco de leche, ya que, vas a estar sin tu bebé en algunas tomas y lo mejor que le puedes dejar a tu bebe, es leche materna. Con el extractor que prefieras empieza a sacarte leche,  esto te ayudara a empezar  a aumentar la producción para tener un poco de reservas.  Recomiendan que sea en la mañana una hora antes o después de que tu bebé vaya o haya tomado. La leche la debes guardar de manera adecuada (Bolsas o Biberones para almacenar leche materna), debidamente marcada con la cantidad y fecha.  Puedes guardarla en la nevera o congelarla.  Debes utilizarla en el mismo orden que te la sacaste para ir renovándola. No necesitas cantidades alarmantes.... mientras estas en el trabajo vas a extraerte y vas a ir reponiendo.  Necesitas una reserva para los primeros días y por si algo pasa inesperado. ",
+      "imageUrlr": "https://cuidateplus.blob.core.windows.net/cms/banco-de-leche-2.jpg",
+      "Cuidado": "Con quien vas a dejar a tu bebé?   Esto es un tema muy personal y cada familia lo resuelve como mejor puede.   Lo importante es que tu como mamá te sientas tranquila con la persona que te cuida mientras no estás a tu bebé. Hay varias opciones: Familiares :  abuelas, tíos, etc. Personas de Apoyo :  empleadas, niñeras, etc. Jardín Infantil - Sala Cuna - Day Care : un sitio donde te cuiden con tu bebé. Una mezcla de cualquiera de los 3 anteriores. Siempre ten un plan B .  Porque se puede enfermar la persona que lo cuida o si el bebe no puede ir al jardín debes estar preparada. En cualquiera de los casos haz la elección con suficiente anticipación y los últimos días en casa empieza a familiarizar a tu bebe con la persona que se va a quedar.",
+      "imageUrlc": "https://www.agenciadomus.com/wp-content/uploads/2017/10/cuidado-de-ninos-bebes-barcelona-1170x658.jpg",
+      "Trabajo": "Definir con la compañía a la que trabajas  y con tu jefe tus horarios,  la hora de lactancia, que viajes tendrías que hacer en los primeros meses, etc. Si te llama la atención explora alternativas de trabajo desde tu casa o horarios flexibles que se acomoden mejor a tus necesidades. Valida si hay un sitio tranquilo donde puedes hacer la extracción de una forma cómoda, tranquila y segura. Ten en cuenta los tiempos de transporte para la conservación de la leche y para las tomas de tu bebé.",
+      "imageUrlt": "https://www.adeccoinstitute.es/wp-content/uploads/2022/02/Madres-trabajadoras.jpg",
+      "conclusion": "¡Confía en tus creencias. Eres un individuo único y valioso, confía en tu juicio y cree en tus habilidades!."
+    },
+    "comentarios": []
+    
+  },
+  {
+    "id": "0b85",
+    "title": "Cuidados del bebé prematuro: información esencial que los padres deben conocer",
+    "description": " El bebé prematuro llorará suavemente y puede...",
+    "date": "Agosto 26, 2024",
+    "imageUrl": "https://cpbebes.com/wp-content/uploads/2021/01/bebe-amor-1-768x456.jpg",
+    "imagenBlog": "https://images.ctfassets.net/2ql69mthp94m/2zcc69YFiVDuIIQq5qtRTV/0dca6f02434dc4d453e7c365b1607b8d/Preemie_720x432.jpg?fm=webp&q=70",
+    "informacion": "Los nacimientos prematuros ocurren en alrededor del 11 al 13% de los embarazos en los EE. UU. Casi el 60% de los mellizos, trillizos y otros tipos de partos múltiples inducen partos prematuros. El panorama es muy similar en Colombia, porque, según datos de las entidades de salud, el 20% de los niños que nacen en el país, son prematuros y las cifras podrían incluso ser mayores por diferentes motivos.",
+    "guia": {
+      "descripcion10": "De acuerdo con los especialistas, los partos prematuros no deben realizarse para el beneficio de la madre o el ginecobstetra. Cuando suceden, son por factores inesperados o por alguna emergencia que podría poner en riesgo tanto la vida del bebé como de la madre. Diversas investigaciones han demostrado que los bebés prematuros tienen un mayor riesgo de presentar situaciones negativas; por eso, siempre los médicos y padres van a realizar diferentes esfuerzos para que los bebés nazcan a término.",
+      "descripcion23": "Un nacimiento se considera «prematuro» cuando el niño nace antes de que se complete la semana 37 de embarazo. Un embarazo a término se caracteriza por llegar hasta la semana 40. Los nacimientos antes del término se pueden dar por causas genéticas, biológicas o ambientales. Aquellos bebés que son prematuros necesitan de cuidados especiales para que se puedan terminar de desarrollar o evitar que presenten problemas de salud.",
+      "CaracteristicasDeBebePrematuro": "Si el bebé nace prematuramente, es posible que no se vea ni actúe así. Mientras que un bebé no prematuro pesa alrededor de 3.17 kg al nacer, un recién nacido prematuro puede pesar 2.26 kg o incluso mucho menos. Gracias a los avances médicos, los niños nacidos después de las veintiocho semanas de gestación y que pesen más de 1 kg tienen buenas posibilidades de supervivencia.",
+      "imageUrlzx": "https://www.clinicalascondes.cl/getattachment/6ce16271-388b-4336-962c-5dc21eb692c7/",
+      "caracteristica2": "Se estima que ocho de cada diez de los nacidos después de la trigésima semana tendrán la posibilidad de gozar de buena salud a largo plazo sin mayores problemas de desarrollo, mientras que los bebés prematuros nacidos antes de las veintiocho semanas tienen más complicaciones y necesitan tratamiento intensivo y apoyo una unidad de cuidados intensivos neonatales para que terminen de formarse y desarrollarse en la incubadora.",
+      "AspectoFisicoDeBebePrematuro": "Cuanto antes nazca el bebé, más pequeño será y más grande se verá la cabeza en relación con el resto del cuerpo. Como tiene menos grasa debajo de la piel, se verá más delgado y transparente, lo que le permitirá ver los vasos sanguíneos debajo de él. El bebé también puede tener cabello fino, llamado lanugo, en la espalda y los hombros. Sin embargo, no se preocupe; con el tiempo estas diferencias desaparecen.",
+      "imageUrl14": "https://staticnew-prod.topdoctors.mx/files/Image/large/4d223aa0da7cc1bc6a23073525c03c1b.jpg",
+      "aspecto2": "Al no tener grasa, que es aislante, su bebé prematuro tendrá frío a temperaturas ambientales normales. Por esa razón, se colocará inmediatamente después del nacimiento en una incubadora o en un dispositivo de calefacción especial llamado calentador radiante. Aquí, la temperatura se puede ajustar para mantenerlo caliente. Después de un rápido examen en la sala de partos, es probable que lo lleven a la UCI neonatal.",
+      "ComoSeraElComportamientoDelBebePrematuro": "El bebé prematuro llorará suavemente y puede tener dificultad para respirar. Esto se debe a que su sistema respiratorio aún está maduro. Si tiene menos de 7 meses, sus dificultades respiratorias pueden causarle graves problemas de salud, ya que, los otros órganos inmaduros de su cuerpo no recibirán suficiente oxígeno. Para asegurarse de que esto no suceda, los médicos lo mantendrán bajo observación, monitoreando su respiración y frecuencia cardíaca con un equipo llamado monitor cardiorrespiratorio.",
+      "ComoManejarElEstres": "Tan importante como el cuidado para la supervivencia del bebé y su traslado a la unidad de cuidados especiales, es la salud materna, ya que, como madre puede perder la experiencia de exploración, amamantamiento y vinculación con el niño poco después del parto. Para lidiar con el estrés de esta experiencia, la madre puede solicitar ver a su bebé lo antes posible después del parto y averiguar cuánto puede cuidarlo",
+      "imageUrld1": "https://www.infobae.com/resizer/v2/ZONXBZ26X5HOFBPVKFNBO24E2A.jpg?auth=b24ed6d28411d9aa8dab7eb47d6799ba0ae1327883f9af961057af3371b8f0ac&smart=true&width=1024&height=512&quality=85",
+      "ManejoEstres2": "Pasar el mayor tiempo posible con él en la unidad de cuidados especiales. Incluso si la madre no puede sostenerlo todavía hasta que esté estable, puede tocarlo con frecuencia. Muchas UCI permiten a los padres hacer «canguro» con sus bebés para brindarles calor y que se sientan protegidos.",
+      "ManejoEstres3": "La madre también puede alimentarlo tan pronto como su médico lo suelte. Las enfermeras le darán instrucciones sobre cualquier técnica de lactancia materna, según sea apropiado para las necesidades y deseos del bebé. Algunos recién nacidos prematuros pueden necesitar inicialmente líquidos por vía intravenosa o mediante un tubo de alimentación que pasa por la boca o la nariz hasta el estómago. Pero la leche materna, es la mejor nutrición posible y proporciona anticuerpos y otras sustancias que aumentan su respuesta inmunológica y ayudan a resistir las infecciones.",
+      "ConsejoAdicional": "La madre debe regresar a casa antes que su recién nacido, lo que puede ser muy difícil, pero debe recordar que el bebé está en buenas manos y puede visitarlo con la misma frecuencia. Debe usar su tiempo fuera del hospital para descansar lo necesario y preparar su hogar y su familia para que su bebé se vaya a casa.",
+      "imageUrl18": "https://img.europapress.es/fotoweb/fotonoticia_20161004174450_1200.jpg",
+      "ConsejoAdicional1": "Incluso después de que la madre regrese a casa, debe participar en la recuperación del bebé y si tiene suficiente contacto con él durante ese tiempo, mejor se sentirá por la situación y más fácil será cuidarlo cuando salga de la unidad de cuidados especiales. Es importante que se prepare de manera idónea para cuidar al pequeño que requerirá cuidados especiales."
+    },
+    "comentarios": []
+  }
+]
 }
   
